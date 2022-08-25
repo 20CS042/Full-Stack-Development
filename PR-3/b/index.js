@@ -50,10 +50,10 @@ class Student{
 
 var s1 = new Student();
 
-s1.setFirstName('Kishan');
-s1.setLastName('Patel');
+s1.setFirstName('Yash');
+s1.setLastName('Pandya');
 s1.setAge(20);
-s1.setrollNo('20CS052');
+s1.setrollNo('20CS042');
 
 console.log('getter for first name '+s1.getFirstName());
 console.log('getter for last name '+s1.getLastName());
@@ -61,6 +61,6 @@ console.log('getter for age '+s1.getAge());
 console.log('getter for roll no. '+s1.getrollNo());
 console.log('\n ');
 console.log('\n ');
-console.log('20CS052_Kishankumar_patel ');
+console.log('20CS042_Yash_Pandya ');
 console.log('\n ');
 console.log('\n ');
